@@ -19,7 +19,7 @@ resume: False
 resume-external: False
 resume-url: https://google.com/?q=my+resume
 
-url: https://KubraBilinmis.github.io
+url: https://kubrabilinmis.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/

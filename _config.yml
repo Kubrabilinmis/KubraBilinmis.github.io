@@ -15,11 +15,11 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: True
-resume-external: True
+resume: False
+resume-external: False
 resume-url: https://google.com/?q=my+resume
 
-url: https://Kubrabilinmis.github.io
+url: https://KubraBilinmis.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,7 +34,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 instagram: [kubrabilinmis]
-linkedin: [kubrabilinmis]
+linkedin: [kübrabilinmiş]
 github: [Kubrabilinmis]
 email: [kubrabilinmis@gmail.com]
 

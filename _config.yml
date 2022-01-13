@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: False
+external-image: True
 picture: assets/images/profile.jpeg  
 
 # your site color theme, false to light theme

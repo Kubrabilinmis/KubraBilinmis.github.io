@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Kübra Bilinmiş
+bio: Hi there, I am Data Scientist.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -15,11 +15,11 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: True
+resume-external: True
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://Kubrabilinmis.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -33,12 +33,10 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+instagram: [kubrabilinmis]
+linkedin: [kubrabilinmis]
+github: [Kubrabilinmis]
+email: [kubrabilinmis@gmail.com]
 
 authors:
   johndoe:

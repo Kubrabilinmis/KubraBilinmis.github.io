@@ -33,10 +33,13 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-instagram: [kubrabilinmis]
-linkedin: [kübrabilinmiş]
-github: [Kubrabilinmis]
-email: [kubrabilinmis@gmail.com]
+instagram: kubrabilinmis
+linkedin: kübrabilinmiş
+github: Kubrabilinmis
+medium: kubrabilinmis
+spotify: 
+email: kubrabilinmis@gmail.com]
+
 
 authors:
   johndoe:
